@@ -1,0 +1,26 @@
+/* color name */
+.h1-foreground {
+	color: DarkCyan;
+}
+
+/* hex code */
+.h2-foreground {
+	color: #ee3e80;
+}
+/* rgb value */
+.p-foreground {
+	color: rgb(100,100,90);
+}
+
+.body-bgcolor {
+	background-color: rgb(200,200,200);
+}
+.h1-bgcolor {
+	background-color: DarkCyan;
+}
+.h2-bgcolor {
+	background-color: #ee3e80;
+}
+.p-bgcolor {
+	background-color: white;
+}
